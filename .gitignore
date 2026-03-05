@@ -26,3 +26,7 @@ npm-debug.log*
 # Cache
 .vite/
 *.tsbuildinfo
+
+# Claude Code
+CLAUDE.md
+.claude/
